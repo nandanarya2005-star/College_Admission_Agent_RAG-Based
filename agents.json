@@ -1,0 +1,32 @@
+{
+  "agents": [
+    {
+      "name": "College Admission Agent",
+      "internal_name": "College_Admission_Agent_3961OA",
+      "id": "966bad5a-39df-4864-9e7c-9142a911a747",
+      "llm": "groq/openai/gpt-oss-120b",
+      "style": "default",
+      "description": "The agent helps with course selection, application guidance, fee structure, and important deadlines. Using trusted, real-time data, it reduces manual inquiries and enhances applicant experience.",
+      "tools": [
+        "Agentic_workflow_3593J5"
+      ],
+      "knowledge_base": "Admission_Broche_6949xd",
+      "plugins": [],
+      "collaborators": []
+    },
+    {
+      "name": "AskOrchestrate",
+      "internal_name": "AskOrchestrate",
+      "id": "6c5808a5-9c3d-4b10-81d8-2d1405db3d6b",
+      "llm": "groq/openai/gpt-oss-120b",
+      "style": "default",
+      "description": "A helpful AI assistant",
+      "tools": [],
+      "knowledge_base": null,
+      "plugins": [],
+      "collaborators": []
+    }
+  ],
+  "external_agents": [],
+  "assistant_agents": []
+}

@@ -1,0 +1,69 @@
+{
+  "evaluations": [
+    {
+      "id": "eval_001",
+      "agent_id": "966bad5a-39df-4864-9e7c-9142a911a747",
+      "timestamp": "2025-06-01T10:23:00Z",
+      "prompt": "What courses should I take in my first year of engineering?",
+      "response": "For your first year of engineering, I recommend focusing on core subjects: Mathematics (Calculus I & II), Physics, Introduction to Programming, Engineering Drawing, and English Communication. These build the foundation for all specializations. Would you like details on any specific branch?",
+      "scores": {
+        "relevance": 95,
+        "accuracy": 90,
+        "clarity": 88,
+        "helpfulness": 92
+      }
+    },
+    {
+      "id": "eval_002",
+      "agent_id": "966bad5a-39df-4864-9e7c-9142a911a747",
+      "timestamp": "2025-06-01T11:05:00Z",
+      "prompt": "What is the application deadline for the 2025 batch?",
+      "response": "The application deadline for the 2025 batch is March 31, 2025 for early admissions and May 15, 2025 for regular admissions. Late applications may be considered on a case-by-case basis subject to seat availability.",
+      "scores": {
+        "relevance": 98,
+        "accuracy": 85,
+        "clarity": 95,
+        "helpfulness": 90
+      }
+    },
+    {
+      "id": "eval_003",
+      "agent_id": "966bad5a-39df-4864-9e7c-9142a911a747",
+      "timestamp": "2025-06-02T09:15:00Z",
+      "prompt": "How much is the tuition fee for the MBA program?",
+      "response": "The MBA program tuition fee is ₹4,50,000 per annum. This includes library access, lab facilities, and student association fees. Scholarships are available for meritorious students covering up to 50% of the tuition. Payment can be made in two installments per semester.",
+      "scores": {
+        "relevance": 97,
+        "accuracy": 93,
+        "clarity": 91,
+        "helpfulness": 96
+      }
+    },
+    {
+      "id": "eval_004",
+      "agent_id": "966bad5a-39df-4864-9e7c-9142a911a747",
+      "timestamp": "2025-06-02T14:30:00Z",
+      "prompt": "Can I transfer credits from my previous college?",
+      "response": "Yes, credit transfers are possible under our Credit Transfer Policy. You will need to submit official transcripts, course syllabi, and a credit transfer request form. The academic committee reviews each case individually. Generally, up to 30% of total credits can be transferred. Please visit the registrar's office for more details.",
+      "scores": {
+        "relevance": 88,
+        "accuracy": 80,
+        "clarity": 85,
+        "helpfulness": 82
+      }
+    },
+    {
+      "id": "eval_005",
+      "agent_id": "966bad5a-39df-4864-9e7c-9142a911a747",
+      "timestamp": "2025-06-03T10:00:00Z",
+      "prompt": "What documents are required for admission?",
+      "response": "Required documents for admission include: 10th and 12th mark sheets, Transfer Certificate, Migration Certificate, Character Certificate, Passport-size photographs (6), Aadhaar card copy, Category certificate (if applicable), and Entrance exam scorecard. All documents must be submitted in original along with 2 sets of self-attested photocopies.",
+      "scores": {
+        "relevance": 99,
+        "accuracy": 95,
+        "clarity": 97,
+        "helpfulness": 98
+      }
+    }
+  ]
+}

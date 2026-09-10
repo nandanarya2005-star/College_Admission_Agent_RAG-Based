@@ -1,0 +1,20 @@
+{
+  "tools": [
+    {
+      "name": "Agentic workflow",
+      "internal_name": "Agentic_workflow_3593J5",
+      "type": "flow",
+      "description": null,
+      "toolkit": null,
+      "app_id": null
+    },
+    {
+      "name": "Get flow status",
+      "internal_name": "i__get_flow_status_intrinsic_tool__",
+      "type": "openapi",
+      "description": "We can use the flow instance id to get the status of a flow. Only call this on explicit request by the user.",
+      "toolkit": null,
+      "app_id": null
+    }
+  ]
+}
